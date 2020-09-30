@@ -14,3 +14,6 @@ Diretório: Power Bi
 ## Web Scraping de sites e pelo Twitter:
 Diretório: datasets-twitter-noticias;
 Diretório: notebooks-twitter-noticias
+
+#Foi feito um fork para o Github da Carol Braga que realizou o projeto em conjunto, principalmente os códigos de Web Scraping de sites e pelo Twitter.
+https://github.com/CarolBragaRJ
