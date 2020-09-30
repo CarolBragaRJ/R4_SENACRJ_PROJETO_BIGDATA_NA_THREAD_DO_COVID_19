@@ -10,3 +10,4 @@ Bases Fictícias:
 Foi desenvolvido no Power Bi
 
 Web Scraping de sites e pelo Twitter:
+datasets-twitter-noticias;
